@@ -1,7 +1,6 @@
 import StudyResult from "@/components/StudyResult";
 
 export default async function MaterialPage({ params, searchParams }) {
-  // ⭐ Unwrap both promises
   const resolvedParams = await params;
   const resolvedSearch = await searchParams;
 
