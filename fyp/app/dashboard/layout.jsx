@@ -1,4 +1,3 @@
-// app/dashboard/layout.jsx
 import Sidebar from "./_components/Sidebar";
 import DashboardHeader from "./_components/DashboardHeader";
 
