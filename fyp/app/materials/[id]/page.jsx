@@ -1,5 +1,3 @@
-// app/materials/[id]/page.jsx
-
 import StudyResult from "@/components/StudyResult";
 
 export default async function MaterialPage({ params, searchParams }) {
