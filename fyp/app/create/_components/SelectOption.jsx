@@ -1,4 +1,3 @@
-// app/create/_components/SelectOption.jsx
 "use client";
 
 export default function SelectOption({
